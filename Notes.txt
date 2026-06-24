@@ -1,0 +1,361 @@
+Scout - use for staffing and finding employees
+Projector - submit time
+credera portal - credera north America portal
+d365 - expense reports
+
+learn program leadership principles - everyone should know
+think about how the changes we make impact their business - be  PM, PL, PD at a base level nad build off into specialist
+
+think about the weight you take off your manager's plate and your teams and leader- no thing is too small
+you eventually become a subject matter expert by doing research after meetings and going the extra mile
+
+Goals:
+Build a network in the company- improve networking skills
+Making an impact with the work I have - tangible and measurable
+learn 
+return offer
+
+
+how to go about taking weight off others shoulders
+best way to go about building those relationships
+best strategy for prepping for Mercedes or learning about the company and my project
+
+start by exhausting mbusa website
+trigger different behaviors and try to notice how the website personalizes to someone like me
+know the cars and models
+
+talk about how they create their newsletter and catch up on industry news
+look at press releases to know what they are excited about and what they are pushing to customers
+media.mbusa.com
+
+build awareness for where someone's time and expertise are better spent elsewhere
+master things that are essential but tedious
+during daily stand up for personalization be an active listener for hearing on how you can help out for things that might not be the best use of time for someone
+
+make my capacity overwhelmingly clear and build that awareness on when I'm available
+
+ask about filling out tedious work
+
+
+
+connor:
+support mc team from anyone from analyst to senior consultant
+when become manager you enter capability - mc strat and innovation, org and change, program leadership
+before manager you aren't tied so you can bounce around and can use connor in addition to career coach
+has specific role through staffing process - second level of career coaching - supports career coach, checks in 
+with them
+materializes through twice a year review - annual is big one that impacts promotion, comp, etc - formal score
+based on feedback - career coach writes that review
+geo lead (connor) is secondary reviewer and reviews the annual reviews
+senior manager narrows in on industry - when principle you are formally assigned to an industry
+project leadership is something everyone at credera is very strong in, so you can run a project pretty much anywhere
+talk to mentor and career coach on how to organize ourselves - email, calendar
+confirm meeting notes with mentors to ensure you got everything down and understand what else you can catch up on
+confirm understanding and connect with project manager that doesn't overwhelm them
+connor will be aware on when you're project is coming to an end so he can meet with mc leadership and staffing team and will run through all open opportunities and roles to see where you can go
+let mentor know if there's something you can help out with if you have capacity and stay aware of that
+
+presentation tips:
+pause for time for questions- don't just take questions whenever
+anticipate tough questions before presentation - do that every time for Mercedes - learn client and anticipate questions by knowing the client
+know what parts are important to them- for example connor said his tsa agents are already very stressed
+learn about change management - projects can have HUGE impacts on people and teams so always be thinking about that - how to support teams during project
+always gonna be someone who is super against a project
+offer to set up follow up meeting if they have a million concerns, demonstrate empathy for the client - example tsa lead has turnover, govt shutdowns, etc
+say like I understand your concerns and i want to support you and hear your concerns
+make sure you understand the purpose of the meeting
+client is either reading slide or listening, never both
+keep in mind the customer- for example on MB customer it's a very emotional process so focus heavily on them
+
+
+mitch McFarland - total account lead
+team x is the integrated agency unit created by Omnicom to handle all marketing and communications business for MB
+super unique like rapp came up w Ronald McDonald
+
+watch team x premier video
+credera does oneweb, analytics, XD, strategy, and personalization
+mitch, Charles, and alyssa do weekly meeting on Wednesday with leaders at each agency
+we focus on cars, and only Patrick does vans
+we were asked to onboard CMO melody lee which demonstrates our impact
+hear sabrina Stengel most of time since she is top leader closest to our work
+digital experience client leadership team slide (5-6 ppl) is who we will need to know and work with closely
+3 automotive tiers: 1 - national auto manufactuere, 2 - regional based, 3 - local auto dealships
+most of our work impacts tier 1 - our work is not manufacturing, it is all selling cars
+tier 3 - objective is awareness and consideration (most our work impacts this)
+tier 2 - objective is the drive qualified leads (some of our work impacts this)
+tier 1 - objective is drive visits and purchases (everything lead based directly from customer being at dealership)
+each level does their own marketing - some of our work is to bridge the tiers, working in silo not best experience for client or prospect
+conquesting - getting customers that are brand new (recently entered economy where it is crucial to conquest new customers) - first big goal for this year
+second biggest goal is AI work - CEO asks us to report quarterly report on findings and AI on how AI can impact Mercedes benz
+potential opportunities to win work on AI and be the first point of contact for that
+
+
+
+
+how much do we work with other agencies or MB people directly vs ppl at credera?
+is it a goal to expand into other agency's work?
+question about be the bridge - if we have minimal interaction with other agencies how do we be the bridge?
+
+how does Mercedes benz maintain other aspects of the company - how does car delivery keep up with delivery communications? how much do we focus on big picture? how much of our work is impacted by those different aspects of the company?
+
+how to focus on what to learn about the company? For example on website there is a lot of talk on F1 and feel customer related focus is more relevant
+
+dotcom is focused on the website part of the website- develop, design, improvement of mbusa.com - explore the website since we build out the entire thing and come out with questions - Caitlyn martin is lead for dotcom
+
+ecomm is in charge of pricing, availability of vehicles, etc
+
+online to offline (O2O) is looking at from online to dealership customer experience - how do we get online customers into the dealership
+
+MLMS (MB leads management system) - maintain system sthat consume, enrich ,deliver, and report on leads - base data and present on what to attack next - how do we make data usable?
+
+
+DDT (digital dealer tools) - big screens in dealership that allows you browse cars, etc to see everything available (luxury car customers that want specificity) - really just anything in the dealership that customers can use
+
+DDA (dealer delivery app) - enchancing the app dealers and customers use to activiate nad pair hteor vehicle post purchase, enchance that tool
+
+Strategy - gathers and synthesizes insights from customers, dealers, competitors to provide roadmaps to future plans
+
+XD - create digital experiences that engage customers, spread out across all various teams discussed
+
+personalization - works to create a world-class and personalize experience to customers
+
+look at account resources and study it
+
+
+Sanjit (sanj) - 
+
+
+PITCH VIDEO:
+
+Team x ambition - build the world's most desirable cars
+Use luxury to grow economic value and grow profitable growth to pursue higher portfolio profitability
+
+Promise is to provide a consistent luxury experience across all touchpoint and to significantly reduce fixed costs
+
+Do with this AI implementation and machine learning
+Need to also be able to respond to local markets and react to changes in demand
+Today is about turning customers into subscribers
+Turn consumers into customers, and customers into subscribers
+
+Start with data because it is the fuel to delivering customer experiences and our currency for the future
+How we use the data is how we separate ourselves from other luxury categories and competitors
+
+You can no longer keep data in silos, you need to bring channels together
+
+You need to build plans on data that is 100% owned, not take "rented data" that puts the company at the mercy of the consultant
+
+Omnicom technology integrates with legacy systems to supercharge the value that you get out of them, right now you are not able to access the full value of those platforms
+
+Path to enhancement
+Connect: A connected customer journey from discovery to passion
+Enrich: The richest customer understanding - understand psychographics of customers from interactions
+Orchestrate: Use behavioral insights to find and acquire using the right content in the right channel at the right time
+Predict: Better customer experiences leading to subscribers- Move from trailing indicators to leading indicators to predict next best action
+
+Use data to increase the perceived value of the vehicles and not just recover lost value
+
+--------
+
+There are 4 different designations with MB:
+Global - core strategy and brand governance- focus on setting "look and feel" for MB and develops global standards for digital and data-based media
+Regional - Adapt global strategy to geographical needs
+Direct / Local - Handles market-specific needs and ensure cultural relevance in individual markets
+Business Units - Dedicated teams specific for MB cars, vans, and financial services
+
+We fall under marketing --> digital experience
+
+Tier 1: national auto manufacturer - awareness and consideration - most our work impacts this
+Tier 2: regional based - drive qualified leads - some of our work impacts this
+Tier 3: local dealership - objective is drive visits and purchase - we don't impact this
+
+Question for slide 21 - How do you continue the work done in each focus through a new focus? I would assume the descriptions of the focus would need to be continued
+
+
+MILES
+Customer data platform - CDP (now customer data cloud)
+Miles doesn't like technical stuff as much- likes to think and exmaplin things
+
+Anchit swims couple times a week - miles
+Ryan majored in accounting
+
+Ask every single question that comes into my head
+Liveramp is creepy.com that has all the customer data that can track data for personalization
+Take my understanding of things and use that to ask better questions
+API is port (transmission system for transmitting data)
+Credentials live in data vault for which you need key
+
+ANCHIT
+Our team is dipped into lots of things and we have a lot on our plate but that is good thing because lots of exposure
+Also high achievers and go people on the team
+Likes spice
+Grew up near Houston went to UT came back interned at credera then returned full-time
+Done lots of stuff but all on this time
+Does lots of the measuring vs developing
+Done lots of MB Canada- get Canada up to speed with the US
+Canada not too different than US because it's a luxury brand so it's more about a specific customer demographic than general customer demographic
+Focus mostly on website metrics
+Form submission rates are about the same for the personalizations that have been launched
+Users can be high funnel (not likely to buy a car) vs. low funnel (more in the sales process)
+Co recruiting head for UT Austin 
+Loves basketball- played younger and now just plays for cardio
+Traveling a ton right now- big part of his life is planning trips and traveling
+
+ETHAN:
+Marketing solutions principle architect
+Basically MC but focuses on marketing lots of overlap
+Didn't intern but started right out of college
+Start of 3rd year on Mercedes
+First project was CSpire and hopped around on different business units
+Next did NRG 3-4 years and went to SW, Home Advisor, did healthcare after that
+Did some internal work and now Mercedes 
+Does lots of woodworking, BBQ, cooking, hanging out with friends
+Be sponge around Madison and Tyler 
+
+Personalization 101:
+Potential tasks:
+Use case ideation - features we want to deploy and want customer to see to increase engagement and personalize for them- use case ideation, organization, go through confluence to keep track of things we are doing
+UAT (user acceptance testing) - testing in a user environment
+Analytics and analytical review
+Ga4 (google analytics)
+Building slides and material
+Other agile things like leading a couple scrum sessions
+
+Strategy is how do we display personalization- tv ad, instagram, TikTok, etc
+Data is how we track what customers are interested in, we need to interpret and track- they have third party data users, we help with using that data to reach their goals
+Tech is identifying the technology needed to reach goals or experiences, or measure if what we are doing is working
+Content is are we showing the right material to the customer
+We measure how does personalization compare to default for leads boost, sales, etc
+For it is a matter of getting the data in the right place and making it seem seamless
+Their systems are very fragmented, you can see an instagram ad for something and an email for something totally different- our work is making that work more cohesive and luxurious
+Not well reflected when they receive fragmented marketing
+This space is also constantly evolving so we have to keep up with that
+We have dedicated control group to create a default group and compare to personalization group
+There are environmental factors that are difficult to measure- for example the tariff measure caused a spike before implementation 
+
+Model notes:
+Step 1: isolate rows with attributes listed and omit non applicable ones
+Step 2: then do test vs control (compare affinities across the board)
+Step 3: measure CTR, lift (% change (test str - control str / control str))
+Do like test ctr and control ctr and then calculate lift of that
+
+Inspect and Adapt----
+CRM:
+Discovery and strategic efforts and use cases
+How do we incorporate dynamic content with channels, how is it different from normal content?
+- dynamic content means to build scalable content because normal content has lots of limitations - grow content to where it makes sense but not to where it's too much - dynamic content is very new and just getting off ground but it adds more variation in how we can display vehicles
+Increase scale based on what they see and like
+How do we measure success?
+What are taxonomies? - unique code to identify vehicle
+Am I able to access DCSC measurement dashboard? And, who builds the dashboard and maintains it?
+What is VLP and what are classes (4 to 16 classes)? (Called VLP content tile)
+Classes are the different vehicle models (s-class, e-class, CLE, EQS, etc)
+
+Personalization:
+What is welcome home initiative?
+- this is the campaign (summer campaign)- focus is what Mercedes is going to be telling users for the next 3 months
+Who comes up with the tasks and decides where to go with personalization?
+- us and Mercedes come up with stuff (would be strategy) and look for potential opportunities to expand
+- we have quarterly planning to look at what we can do to continue and grow personalization
+- put yourself in shoes of customers and think what would help grow the customer experience
+- then come up with use cases based on gaps or things we want to do
+- then deconstruct or define the idea and XD decides how to make it look visually 
+- they all come together and it is then tested and development works
+- test with control experience or default experience
+- there is a use case life cycle that comes from ideation to deconstruction to design to development then to deployment and measurement
+- not all are the same (some use cases are basic and some are complex - changing words on a page or entirely new initiative like dynamic content)
+Does tier 2 personalization just mean doing personalization regionally?
+(Call extra space bandwidth for ad hoc tasks)
+(Roadblocks are called blockers)
+How often are things completed on time or pushed through another PI cycle?
+When we launch something for a "use case"- does that just mean we developed something for a specific group of people or customer base
+- to us use case is something newly delivered to the experience (like a feature or thing we are doing and improving)
+
+DDT:
+What the heck is VLP?
+How much interaction does DDT have with dealerships? Also, do we do a lot of work on this team? And, would they be defined as tier 3?
+
+O2O:
+Figuring out how to support dealerships with leads? Does that count as bridging the gaps? Is that a huge challenge getting dealerships to take advantage of what HQ is working to develop?
+
+Dotcom:
+Supporting brands like devilware's Prada and masters
+How do they decide the changes they want to make on the website?
+
+
+-----
+On excel if you have measurable data can make a visualization for it (bar chart or maybe line chart if it's clicks over time)
+
+Ask if someone can walk me through some of their Mira tasks
+
+GA4 looks cool- can I use this
+
+
+
+They have Sharepoint knowledge point that goes into folder. They record all meetings and transcripts and throw into share points
+
+Sharepoint is integrated into virtual studio code (they have Claude incorporated) - find out what is VS code
+
+Download transcript from meeting and put into the Sharepoint (which then auto populations in virtual studio code (VS)
+
+We have GitHub copilot
+You can add extension to VS code to integrate the AI to make the slides
+
+We can do on credera GitHub copilot
+
+You prompt the AI to make slides based on said transcripts
+
+Create repeatable prompts so that it knows what to do
+
+Two things set up- one is automation that takes notes from previous day and puts out all the important thing
+Ai works best when it is narrowly focused so the more broad it is the worse output you get
+Make it regularly recurring
+
+Justin does it fixed at 9am every morning before he has his laptop open at that time and doesn't have as much volume
+
+Has a skills file with step by step how you want the agent to break down the files
+
+
+Media findings are from first sheet - use one without GLA
+Other two (special offers and PUWYLO are second sheet)
+
+Start in atlanta
+
+
+User testing for MBUSA chatgpt
+Put myself in the shoes of a customer
+Touch base with Alaina (backfilling Connor and is strategist for lots of initiatives outside of personalization - works across O2O, dotcom)
+Help customers who are using LLMs outside of the website
+Hosted inside chatgpt console
+
+Pull me into post PI meeting stuffs 
+We are gonna be plugging in hands on to help Madison
+Gonna walk us through ticket creation from ideation stage to tactical implementation 
+
+Lots of slides no info - how to define that story
+How do we know what to classify tickets under
+Do you always do a user story?
+How to access past sprints and boards to look at examples
+
+Reports --> sprint report 
+This PI little different from last one bc last PI had lots of initiatives that lasted a long time (not specific features being launched but enablements)
+Look through GA4
+Install omnibug and that helps unlock creation of reports and how they work
+Start building simplified reports and build off that- use omnibug to do so
+Go to mercedes benz
+You select omnibug inside inspect element
+Build charts using that
+Under events you can see the data that goes into a chart
+Poke around in GA4 and do some trainings
+
+How is your role evolved from Madison's now?
+Is our role on the team more about knowing what's going on and leading everyone rather than technical work?
+What do you do all day outside of leading meetings?
+
+
+Discovery heavy PI22 resulting in lots of initiatives for PI23 around on-site and media use cases and capability exercises we'll be doing through this upcoming PI
+
+That includes the identity resolution work stream which we had a successful working session defining the end-to-end media process and we'll have identity measurement process sessions coming out over the next couple of weeks
+
+For Canada, we have some upcoming personalizations including the VLP tile that has a go live of July 15th and a couple other things coming for Canada
+
+For risks, no new risks, these have just been carried over from the previous PI that included data ingestion from C360 and then working with the mobile app SDK
